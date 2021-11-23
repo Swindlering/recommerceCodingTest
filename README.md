@@ -34,28 +34,3 @@ Within 4 hours, develop an API that meets the following expectations.
 `bin/console doctrine:migrations:migrate`
 
 4. check your database by connection
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-`php -f script.php `
-
-4. On your web browser, go to (with Apache)
-    * copy  momji_PHP to /var/www/html/ (Ubuntu)
-    * `http://localhost/momji/`
-
-5. On your web browser, go to (with Visual studio Code)
-    * Install extension `live Server`
-    * open `index.html`
-    * Right click and select `Open wih live Server`
